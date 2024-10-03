@@ -1,3 +1,5 @@
+![Uploading Screenshot (1481).png…]()
+
 SHOE BRAND Page (React)
 
 A simple and responsive landing page for a fictional shoe brand, built using React to help beginners learn the fundamentals of component-based design and layout in React.
